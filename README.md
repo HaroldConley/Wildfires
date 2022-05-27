@@ -1,4 +1,4 @@
-# Wilfires
+# Wildfires
 Practicing with SQL Database
 
 Here are the queries I did to answer this:
